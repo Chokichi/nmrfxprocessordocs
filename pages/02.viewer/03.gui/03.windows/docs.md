@@ -1,5 +1,5 @@
 ---
-title: he simplest way to get a spectrum displayed to open from the File Table
+title: The simplest way to get a spectrum displayed to open from the File Table
 taxonomy:
     category: docs
 ---
